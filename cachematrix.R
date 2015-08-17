@@ -1,7 +1,7 @@
 ## Script for solving and storing in cache the inverse of a matrix.
 
 makeCacheMatrix <- function(x = matrix()) {
-  # Created a matrix able to store its inverse as metadata.
+  # Create a matrix able to store its inverse as metadata.
   # 
   # Args:
   #   x: A square invertible matrix
